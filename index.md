@@ -1,3 +1,3 @@
 ## 2023-12-29
-- Code: crwn-clothing
-- Research: stripe api
+- Code: add crwn-clothing products to db
+- Research: look at stripe api payments
