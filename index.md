@@ -1,5 +1,9 @@
 # daily-dev-log
 
+### 2023-12-31
+- feat: init funky-type
+- chore: get familiar with solidjs
+
 ### 2023-12-30
 - feat: create daily-dev-log
 - feat: complete crwn-clothing ux
