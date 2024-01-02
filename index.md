@@ -1,7 +1,7 @@
 # daily-dev-log
 
 ### 2024-01-01
-- feat: add typing test essential functionality
+- feat: add essential functionality to funky-type
 
 ### 2023-12-31
 - feat: init funky-type
