@@ -1,5 +1,8 @@
 # daily-dev-log
 
+### 2024-01-02
+- feat: begin setting up funky-type db with firebase
+
 ### 2024-01-01
 - feat: add essential functionality to funky-type
 
