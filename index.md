@@ -1,5 +1,8 @@
 # daily-dev-log
 
+### 2024-01-03
+- feat: save and get docs from funky-type db
+
 ### 2024-01-02
 - feat: begin setting up funky-type db with firebase
 
