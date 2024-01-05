@@ -1,5 +1,8 @@
 # daily-dev-log
 
+### 2024-01-04
+- chore: investigate createResource to use async with solidjs
+
 ### 2024-01-03
 - feat: save and get docs from funky-type db
 
