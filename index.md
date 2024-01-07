@@ -1,5 +1,8 @@
 # daily-dev-log
 
+### 2024-01-06
+- begin: get started with nextjs react course
+
 ### 2024-01-05
 - archive: stop working on funky-type project using solid js
 
