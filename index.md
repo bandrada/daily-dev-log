@@ -1,5 +1,8 @@
 # daily-dev-log
 
+### 2024-01-05
+- archive: stop working on funky-type project using solid js
+
 ### 2024-01-04
 - chore: investigate createResource to use async with solidjs
 
