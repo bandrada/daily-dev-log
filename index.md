@@ -1,7 +1,10 @@
 # daily-dev-log
 
+### 2024-01-08
+- learn: continue nextjs acme dashboard
+
 ### 2024-01-07
-- code: begin nextjs introduction acme dashboard
+- learn: begin nextjs introduction acme dashboard
 - learn: finish going going through nextjs review of react
 
 ### 2024-01-06
