@@ -1,5 +1,8 @@
 # daily-dev-log
 
+### 2024-01-09
+- learn: setup nextjs vercel project and db
+
 ### 2024-01-08
 - learn: continue nextjs acme dashboard
 
