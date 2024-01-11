@@ -9,4 +9,3 @@ Whether code, research, or server related, a place to record what I did on a day
 
  ## Solution
  Create a daily development log repo. Daily contributions to it count as progress towards my goal. As a bonus, I will have a way to reference what I have done in the past.
-[https://bandrada.github.io/daily-dev-log/](https://bandrada.github.io/daily-dev-log/)
