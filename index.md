@@ -1,5 +1,8 @@
 # daily-dev-log
 
+### 2024-01-14
+- learn: look into qr code creation libraries and wifi qr standards
+
 ### 2024-01-11
 - learn: use url params to add search and pagination for nextjs acme dashboard
 
